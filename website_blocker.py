@@ -1,7 +1,7 @@
 from datetime import datetime as dt
 import time
 
-file_path = "C:\Windows\System32\drivers\etc"
+file_path = r"C:\Windows\System32\drivers\etc"
 website_list = ["www.facebook.com", "www.youtube.com"]
 redirect = "127.0.0.1"
 
